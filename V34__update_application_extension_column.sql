@@ -1,1 +1,0 @@
-UPDATE `applications` SET `extension` = 'war' WHERE `extension` IS NULL;
